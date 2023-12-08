@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\bin\Debug\net7.0\AlgorithmsTheoryNumber.exe
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\bin\Debug\net7.0\AlgorithmsTheoryNumber.deps.json
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\bin\Debug\net7.0\AlgorithmsTheoryNumber.runtimeconfig.json
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\bin\Debug\net7.0\AlgorithmsTheoryNumber.dll
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\bin\Debug\net7.0\AlgorithmsTheoryNumber.pdb
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\AlgorithmsTheoryNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\AlgorithmsTheoryNumber.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\AlgorithmsTheoryNumber.AssemblyInfo.cs
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\AlgorithmsTheoryNumber.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\AlgorithmsTheoryNumber.dll
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\refint\AlgorithmsTheoryNumber.dll
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\AlgorithmsTheoryNumber.pdb
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\AlgorithmsTheoryNumber.genruntimeconfig.cache
+C:\Users\pc\source\repos\AlgorithmsTheoryNumber\obj\Debug\net7.0\ref\AlgorithmsTheoryNumber.dll
